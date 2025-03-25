@@ -1,3 +1,5 @@
+namespace: nginx-app
+
 resources:
   - deployment.yaml
   - service.yaml
